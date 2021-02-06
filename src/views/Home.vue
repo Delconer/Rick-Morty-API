@@ -6,7 +6,7 @@
         <p>Characters guide</p>
       </router-link>
     </div>
-    <Search/>
+    <Search />
     <CardList />
   </div>
 </template>
@@ -17,8 +17,8 @@ import Search from "../components/Search";
 export default {
   name: "Home",
   components: {
-    CardList, Search
-  
+    CardList,
+    Search,
   },
 };
 </script>
