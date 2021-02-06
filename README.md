@@ -5,7 +5,7 @@ Proyecto elaborado usando Vue.js 2, integra un buscador y paginación que permit
 ## Demo
 
 El proyecto puede ser visto en funcionamiento [aqui](https://delconer-rick-morty-api.netlify.app/ "aqui")
-
+![](https://raw.githubusercontent.com/Delconer/Rick-Morty-API/main/src/assets/preview.png)
 ## Funciones integradas.
 
 - Buscador que permite filtrar los personajes por nombre, ingresando los caracteres incluidos en su nombre.
@@ -25,4 +25,5 @@ El proyecto puede ser visto en funcionamiento [aqui](https://delconer-rick-morty
 - Agregar funciones de búsqueda por características comunes.
 
 - Eliminar errores y bugs.
+
 
